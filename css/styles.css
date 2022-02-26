@@ -1,0 +1,16 @@
+.menu {
+  position: fixed;
+  width: 100%;  
+  justify-content: right;
+  display: flex;
+  
+}
+.menu li {
+  display: inline-block;
+  padding: 0 20px;
+}
+.menu a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
