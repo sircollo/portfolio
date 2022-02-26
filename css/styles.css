@@ -58,3 +58,12 @@ h1 {
 .edu-content {
   float:right
 }
+.footer {
+  text-align: center;
+  font-family:sans-serif;
+  width: 100%;
+  position: absolute;  
+  height: 10px;
+  border-top: 8px solid silver;  
+  font-size: 15px;  
+}
