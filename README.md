@@ -9,6 +9,8 @@ This is a portfolio website for Collins Sirwani detailing on education backgroun
 None
 ## Technologies Used
 HTML and CSS
+## Live Link Preview
+[Preview Here](https://sircollo.github.io/portfolio)
 ## Support and contact details
 sircollo71@gmail.com
 ### License
