@@ -1,68 +1,72 @@
 .menu {
   position: fixed;
-  width: 100%;  
+  width: 100%;
   justify-content: right;
   display: flex;
-
 }
+
 .menu a {
   text-decoration: none;
   color: white;
   font-weight: bold;
-  
-  
 }
+
 .menu li {
   display: inline-block;
   padding: 0 20px;
 }
+
 .header-img {
   width: 100%;
   height: 400px;
-  background-size: cover;  
-  
-
+  background-size: cover;
 }
+
 .header-text {
   background-image: url('images/headerbg.jpg');
   padding-top: 0.1px;
   text-align: center;
   height: 150px;
   background-color: silver;
-  
 }
+
 .header-text h1 {
   text-transform: uppercase;
   font-size: 2.7em;
   color: aliceblue;
-  
 }
+
 .header-text p {
   font-size: 2em;
   padding-top: 0%;
   color: white;
 }
+
 .main-content {
-  background-color:silver;
+  background-color: silver;
   max-width: 1300px;
-  margin: auto;  
+  margin: auto;
 }
+
 .content {
   max-width: 960px;
   margin: auto;
 }
+
 h1 {
   text-align: center;
 }
+
 .edu-content {
-  float:right
+  float: right
 }
+
 .footer {
   text-align: center;
-  font-family:sans-serif;
+  font-family: sans-serif;
   width: 100%;
-  position: absolute;  
+  position: absolute;
   height: 10px;
-  border-top: 8px solid silver;  
-  font-size: 15px;  
+  border-top: 8px solid silver;
+  font-size: 15px;
 }
