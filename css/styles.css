@@ -23,7 +23,7 @@
 }
 
 .header-text {
-  background-image: url('images/headerbg.jpg');
+  background-image: url('/images/headerbg.jpg');
   padding-top: 0.1px;
   text-align: center;
   height: 150px;
